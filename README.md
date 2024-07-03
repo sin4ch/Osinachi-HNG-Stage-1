@@ -1,8 +1,8 @@
-# Automating User Creation with Bash: A DevOps Approach
+# Ny HNG Stage 1 Task
 
 ---
 
-In the fast-paced world of software development, efficient onboarding of new team members is crucial. As part of the HNG Internship program (learn more at [https://hng.tech/internship](https://hng.tech/internship)), I was tasked with creating a bash script to automate user creation for a growing development team. This article explains the script's functionality and the reasoning behind its implementation.
+As part of the HNG DevOpInternship program (learn more at [https://hng.tech/internship](https://hng.tech/internship)), I was tasked with creating a bash script to automate user creation for a growing development team. This article explains the script's functionality and the reasoning behind its implementation.
 
 Check out [https://hng.tech/hire](https://hng.tech/hire) to learn about hiring our interns.
 
