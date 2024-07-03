@@ -1,4 +1,4 @@
-# Ny HNG Stage 1 Task
+# My HNG Stage 1 Task
 
 ---
 
